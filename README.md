@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=GS-Ranjith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<br>
 ---
 
 ## 🚀 About Me
@@ -81,17 +82,23 @@ I'm an **AI Engineer & Data scientist** passionate about building intelligent sy
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GS-Ranjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GS-Ranjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GS-Ranjith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Ranjith&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GS-Ranjith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Ranjith&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<br>
 
 ---
 
@@ -100,6 +107,8 @@ I'm an **AI Engineer & Data scientist** passionate about building intelligent sy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GS-Ranjith&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
+<br>
 
 
 ---
