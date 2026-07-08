@@ -1,7 +1,7 @@
 <!-- TYPING ANIMATION BANNER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranjith+G+S;AI+Engineer+%7C+Deep+Learning+Specialist;Building+Intelligent+Systems+with+GenAI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranjith+G+S;A+I+Engineer+%7C+Data+Scientist+Learning+Specialist;Building+Intelligent+Systems+with+GenAI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -81,33 +81,33 @@ I'm an **AI Engineer & Data scientist** passionate about building intelligent sy
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=GS-Ranjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GS-Ranjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=GS-Ranjith&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GS-Ranjith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Ranjith&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Ranjith&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=GS-Ranjith&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GS-Ranjith&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=GS-Ranjith&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GS-Ranjith&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
