@@ -82,23 +82,11 @@ I'm an **AI Engineer & Data scientist** passionate about building intelligent sy
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GS-Ranjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GS-Ranjith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Ranjith&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
+<p align="center">
+  <a href="https://github.com/GS-Ranjith">
+    <img src="https://github-readme-stats.vercel.app/api?username=GS-Ranjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" onerror="this.style.display='none'" />
+  </a>
+</p>
 
 ---
 
