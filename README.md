@@ -1,14 +1,14 @@
-&lt;!-- TYPING ANIMATION BANNER --&gt;
-&lt;p align="center"&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranjith+G+S;AI+Engineer+%7C+Deep+Learning+Specialist;Building+Intelligent+Systems+with+GenAI" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<!-- TYPING ANIMATION BANNER -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranjith+G+S;AI+Engineer+%7C+Deep+Learning+Specialist;Building+Intelligent+Systems+with+GenAI" alt="Typing SVG" />
+  </a>
+</p>
 
-&lt;!-- PROFILE VIEWS BADGE --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=GS-Ranjith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /&gt;
-&lt;/p&gt;
+<!-- PROFILE VIEWS BADGE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GS-Ranjith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -113,20 +113,21 @@ I'm an **AI Engineer & Data scientist** passionate about building intelligent sy
 
 ## 🔗 Connect With Me
 
-&lt;p align="center"&gt;
-  &lt;a href="https://www.linkedin.com/in/ranjith-g-s-b72949397" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/GS-Ranjith" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:ranjithgs4310@gmail.com" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://www.linkedin.com/in/ranjith-g-s-b72949397" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/GS-Ranjith" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ranjithgs4310@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
+</p>
